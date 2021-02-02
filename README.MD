@@ -3,3 +3,6 @@ Run server
 
 Port 
 * http://localhost:5000
+
+DB 
+* mysql
